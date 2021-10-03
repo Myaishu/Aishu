@@ -22,7 +22,7 @@ Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hish
 ----
 
   <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
+  <a href="https://github.com/Vasudevxmarco/Aishu">
     <img src="https://img.shields.io/github/repo-size/Hisham-muhammed/Sophia?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/Hisham-muhammed?color=f7df1e&style=flat-square"></a>

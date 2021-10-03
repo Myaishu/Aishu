@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/Vasudevxmarco/Aishu-Mwol">Vasudev
   <a href="https://github.com/Vasudevxmarco/Aishu">
     <img src="https://img.shields.io/github/repo-size/Vasudevxmarco/Aishu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/Vasudevxmarco?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Vasudevxmarco/followers"><img title="Followers" src="https://img.shields.io/github/followers/Vasudevxmarco?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Vasudevxmarco/Aishu-1?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Vasudevxmarco/Aishu-1?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Vasudevxmarco/Aishu-1?label=Watchers&color=f7df1e&style=flat-square"></a>
